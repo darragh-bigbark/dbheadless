@@ -40,8 +40,7 @@ export default function Page() {
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
           <p>
-            WP&nbsp;Engine’s Headless WordPress Framework includes this example
-            project, the{' '}
+            WP&nbsp;EWhat in the heck are we doing here?
             <a href="https://github.com/wpengine/faustjs#wordpress-plugin">
               headless WordPress plugin
             </a>
